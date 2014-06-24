@@ -1,0 +1,8 @@
+*.py[cod]
+.cache/
+build/
+dist/
+setup.cfg
+conftest.py
+testenv/
+pytest_pep257.egg-info/
